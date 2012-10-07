@@ -1,0 +1,12 @@
+person_id,red_wine_vinegar,balsamic_vinegar,salt_and_vinegar_chips,lime,lemon,grapefruit,orange,goat_cheese,blue_cheese,jalapeno,hot sauce,tomato,guinness ,granny_smith_apples,strawberries,kiwi,white_onion,banana,grape,cider_vinegar,ipa
+1,1,1,7,10,9,10,6,8,6,8,10,10,8,8,10,9,5,3,5,1,6
+2,3,9,6,8,9,8,8,7,6,8,10,1,7,6,9,5,5,4,5,8,6
+3,4,8,4,8,8,9,9,6,7,5,9,5,5,6,5,6,5,5,NA,7,NA
+4,NA,NA,NA,8,8,8,8,NA,NA,7,7,5,NA,NA,6,NA,4,3,NA,NA,NA
+5,NA,NA,3,9,10,7,8,7,6,NA,NA,3,4,6,8,6,6,NA,NA,2,NA
+6,NA,NA,NA,NA,NA,NA,NA,7,NA,NA,NA,4,NA,NA,9,NA,6,NA,NA,NA,NA
+7,NA,NA,5,9,9,7,NA,8,NA,9,8,2,9,6,7,NA,NA,NA,NA,NA,NA
+8,NA,NA,10,10,7,7,NA,8,5,4,8,NA,9,NA,4,6,NA,4,NA,NA,NA
+9,2,4,5,10,8,7,6,6,7,7,8,5,6,6,5,NA,6,4,NA,NA,NA
+10,NA,8,7,10,10,8,9,7,NA,7,8,3,8,6,8,6,6,3,NA,NA,NA
+11,NA,8,1,4,5,8,NA,9,7,6,8,7,9,8,9,9,7,7,NA,NA,NA
